@@ -1,7 +1,7 @@
 
 ## About me
 
-- 🌱 I’m currently learning Java and MySQL
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: mkdir700@gmail.com
 - :writing_hand: my blog: <a href="https://www.z2blog.com/" target="blank">www.z2blog.com</a>
 
