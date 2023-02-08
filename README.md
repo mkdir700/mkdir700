@@ -10,6 +10,10 @@
 <img align="center" src="https://skillicons.dev/icons?i=python,lua,rust,neovim,vim,docker,linux,mysql,mongo,redis,flask,fastapi,git,github,md&theme=light" />
 
 ## My Stats
-![snake](https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mkdir700&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
+<div align=center>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mkdir700&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh"/>
+  
+![snake](https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-contribution-grid-snake.svg)
+</div>
+
