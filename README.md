@@ -7,7 +7,7 @@
 - ❤️ vim lover
 
 ## Languages and Tools
-<img align="center" src="https://skillicons.dev/icons?i=python,lua,rust,neovim,vim,docker,linux,mysql,mongo,redis,flask,fastapi,git,github,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=go,python,lua,rust,neovim,vim,docker,linux,sqlite,mysql,mongo,redis,flask,fastapi,git,github,md,latex,nginx,powershell&theme=light&perline=10" />
 
 ## My Stats
 
