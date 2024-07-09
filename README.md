@@ -1,7 +1,7 @@
 
 ## About me
 
-- 🌱 I mainly use Python, but I’m currently learning C++ and Rust
+- 🌱 I mainly use Python and I’m currently learning Typescript and Nextjs because I want to develop an app of my own!
 - 📫 How to reach me: mkdir700@gmail.com
 - ✍️ my blog: <a href="https://www.z2blog.com/" target="blank">www.z2blog.com</a>
 - ❤️ vim lover
