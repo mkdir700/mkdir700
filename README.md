@@ -6,9 +6,15 @@
 - ✍️ my blog: <a href="https://www.z2blog.com/" target="blank">www.z2blog.com</a>
 - ❤️ vim lover
 
-## Languages and Tools
+## Tech Stack
 <div align=center>
-<img align="center" src="https://skillicons.dev/icons?i=go,python,lua,rust,neovim,vim,docker,linux,sqlite,mysql,mongo,redis,flask,fastapi,git,github,md,latex,nginx,powershell&theme=light&perline=10" />
+<img align="center" src="https://skillicons.dev/icons?i=go,python,lua,rust,html,css,js,ts,nodejs,nextjs,react,tailwind,flask,fastapi,django,tauri,flutter" />
+</div>
+
+## Tools I Use
+
+<div align=center>
+<img align="center" src="https://skillicons.dev/icons?i=sqlite,mysql,mongo,neovim,vim,vscode,apple,windows,ubuntu,linux,debian,git,github,gitlab,bitbucket,npm,pnpm,jenkins,md,latex,nginx,docker,postman,powershell,bash,cloudflare,discord,gmail,grafana,stackoverflow,sentry" />
 </div>
 
 ## My Stats
