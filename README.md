@@ -8,24 +8,35 @@
 
 ## Tech Stack
 <div align=center>
-<img align="center" src="https://skillicons.dev/icons?i=go,python,lua,rust,html,css,js,ts,nodejs,nextjs,react,tailwind,flask,fastapi,django,tauri,flutter" />
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=go,python,lua,rust,html,css,js,ts,nodejs,nextjs,react,tailwind,flask,fastapi,django,tauri,flutter" />
 </div>
 
 ## Tools I Use
 
 <div align=center>
-<img align="center" src="https://skillicons.dev/icons?i=sqlite,mysql,mongo,neovim,vim,vscode,apple,windows,ubuntu,linux,debian,git,github,gitlab,bitbucket,npm,pnpm,jenkins,md,latex,nginx,docker,postman,powershell,bash,cloudflare,discord,gmail,grafana,stackoverflow,sentry" />
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=sqlite,mysql,mongo,neovim,vim,vscode,apple,windows,ubuntu,linux,debian,git,github,gitlab,bitbucket,npm,pnpm,jenkins,md,latex,nginx,docker,postman,powershell,bash,cloudflare,discord,gmail,grafana,stackoverflow,sentry" />
 </div>
 
 ## My Stats
 
-<div align=center>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=mkdir700&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh"/>
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/ecdcacf4-be46-43ff-9da5-4dcf1e218d2d.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
+  <img width="49%" alt="Languages over Last 7 days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11e83183-5ddc-4b88-ac16-715d5556681e.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
+  <img width="49%" alt="Coding Activity over Last 7 days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
 </picture>
 
 </div>
