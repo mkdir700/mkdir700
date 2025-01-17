@@ -22,12 +22,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700" />
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/ecdcacf4-be46-43ff-9da5-4dcf1e218d2d.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
   <img width="49%" alt="Languages over Last 7 days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
@@ -37,6 +31,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11e83183-5ddc-4b88-ac16-715d5556681e.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
   <img width="49%" alt="Coding Activity over Last 7 days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
 </picture>
 
 </div>
