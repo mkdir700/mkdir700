@@ -27,7 +27,7 @@ Also: Vim has ruined normal editors for me.
 
 Products I've built
 
-## UniClipboard
+## [UniClipboard](https://github.com/UniClipboard/UniClipboard)
 
 A privacy-first cross-device clipboard sync app built with Rust and Tauri.
 
@@ -35,30 +35,17 @@ Copy on one device, paste on another. It supports syncing text, images, and file
 
 This is the project I'm mainly working on now.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,tauri,ts,react,sqlite" />
-</p>
-
-## EchoPlayer
+## [EchoPlayer](https://github.com/mkdir700/EchoPlayer)
 
 A cross-platform video player designed for language learners.
 
 It turns movies, TV shows, documentaries, and course videos into listening practice material, with sentence-by-sentence playback, auto pause, sentence looping, bilingual subtitles, and inline vocabulary lookup.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=electron,react,ts,sqlite,vite" />
-</p>
-
-## open-sol-bot
+## [open-sol-bot](https://github.com/ChainBuff/open-sol-bot)
 
 A fully open-source Telegram trading bot for the Solana ecosystem.
 
 It supports copy trading, wallet monitoring, swap flows, activation codes, and self-hosted deployment. The goal is simple: keep the bot transparent, open, and under the user's control.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,redis,docker" />
-</p>
-
 
 
 ## Tech stack
