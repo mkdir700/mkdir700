@@ -1,0 +1,37 @@
+<svg width="400" height="586" viewBox="0 0 400 586" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">How I build</title>
+  <desc id="desc">Three engineering principles: local by default, visible systems, and boring in production</desc>
+
+  <rect width="400" height="586" fill="#11120F"/>
+  <rect x="0.5" y="0.5" width="399" height="585" stroke="#34352F"/>
+  <path d="M0 195H400M0 390H400" stroke="#34352F"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">
+    <g transform="translate(24 24)">
+      <text x="0" y="12" fill="#D7FF45" font-size="11">01 / OWNERSHIP</text>
+      <text x="0" y="57" fill="#F1EFE6" font-size="21" font-weight="700">LOCAL BY DEFAULT</text>
+      <text x="0" y="91" fill="#999B91" font-size="13">Data starts on your device.</text>
+      <text x="0" y="113" fill="#999B91" font-size="13">Leaving it should be a choice.</text>
+      <path d="M0 146H352" stroke="#34352F"/>
+      <circle cx="7" cy="146" r="6" fill="#D7FF45"/>
+    </g>
+
+    <g transform="translate(24 219)">
+      <text x="0" y="12" fill="#D7FF45" font-size="11">02 / CLARITY</text>
+      <text x="0" y="57" fill="#F1EFE6" font-size="21" font-weight="700">VISIBLE SYSTEMS</text>
+      <text x="0" y="91" fill="#999B91" font-size="13">Inspectable beats impressive.</text>
+      <text x="0" y="113" fill="#999B91" font-size="13">The mechanism should make sense.</text>
+      <path d="M0 146H352" stroke="#34352F"/>
+      <circle cx="176" cy="146" r="6" fill="#D7FF45"/>
+    </g>
+
+    <g transform="translate(24 414)">
+      <text x="0" y="12" fill="#D7FF45" font-size="11">03 / OPERATIONS</text>
+      <text x="0" y="57" fill="#F1EFE6" font-size="21" font-weight="700">BORING IN PROD</text>
+      <text x="0" y="91" fill="#999B91" font-size="13">Predictable tools age better.</text>
+      <text x="0" y="113" fill="#999B91" font-size="13">Surprises belong in the design.</text>
+      <path d="M0 146H352" stroke="#34352F"/>
+      <circle cx="345" cy="146" r="6" fill="#D7FF45"/>
+    </g>
+  </g>
+</svg>

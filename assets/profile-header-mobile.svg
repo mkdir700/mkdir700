@@ -1,0 +1,46 @@
+<svg width="400" height="520" viewBox="0 0 400 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">mkdir700</title>
+  <desc id="desc">Product engineer in Shanghai building local-first desktop software and useful developer tools</desc>
+
+  <rect width="400" height="520" fill="#11120F"/>
+  <rect x="0.5" y="0.5" width="399" height="519" stroke="#34352F"/>
+  <path d="M20 0V520M380 0V520M0 48H400M0 306H400M0 486H400" stroke="#2B2C27"/>
+
+  <rect x="20" y="19" width="10" height="10" fill="#D7FF45"/>
+  <rect x="370" y="497" width="10" height="10" fill="#D7FF45"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">
+    <text x="42" y="28" fill="#999B91" font-size="11">DOSSIER / 0700</text>
+    <text x="291" y="28" fill="#999B91" font-size="11">SHANGHAI · CN</text>
+
+    <text x="20" y="142" fill="#F1EFE6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">mkdir700</text>
+    <rect x="22" y="163" width="70" height="4" fill="#D7FF45"/>
+    <text x="20" y="210" fill="#F1EFE6" font-size="17">SOFTWARE THAT FEELS NATIVE.</text>
+    <text x="20" y="242" fill="#999B91" font-size="13">LOCAL-FIRST DESKTOP APPS</text>
+    <text x="20" y="264" fill="#999B91" font-size="13">PRACTICAL DEVELOPER TOOLS</text>
+
+    <text x="20" y="338" fill="#999B91" font-size="11">CURRENT TRANSMISSION</text>
+    <text x="20" y="376" fill="#F1EFE6" font-size="23" font-weight="700">UNICLIPBOARD</text>
+    <text x="20" y="403" fill="#D7FF45" font-size="12">PEER TO PEER / END TO END</text>
+  </g>
+
+  <g transform="translate(223 391)">
+    <g stroke="#65675F" stroke-width="1.5">
+      <path d="M0 44L63 13L126 44L63 75L0 44Z"/>
+      <path d="M63 13V75"/>
+      <path d="M0 44H126" stroke-dasharray="4 6"/>
+    </g>
+    <g fill="#11120F" stroke="#D7FF45" stroke-width="2">
+      <circle cx="0" cy="44" r="7"/>
+      <circle cx="63" cy="13" r="7"/>
+      <circle cx="126" cy="44" r="7"/>
+      <circle cx="63" cy="75" r="7"/>
+    </g>
+    <circle cx="63" cy="44" r="5" fill="#D7FF45"/>
+  </g>
+
+  <g fill="#999B91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="0">
+    <text x="20" y="508">PRODUCT ENGINEER</text>
+    <text x="319" y="508">ACTIVE</text>
+  </g>
+</svg>

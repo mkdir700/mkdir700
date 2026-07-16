@@ -1,0 +1,61 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">mkdir700</title>
+  <desc id="desc">Product engineer in Shanghai building local-first desktop software and useful developer tools</desc>
+
+  <rect width="1200" height="400" fill="#11120F"/>
+  <rect x="0.5" y="0.5" width="1199" height="399" stroke="#34352F"/>
+
+  <g stroke="#2B2C27" stroke-width="1">
+    <path d="M40 0V400M1160 0V400"/>
+    <path d="M0 54H1200M0 346H1200"/>
+  </g>
+
+  <g fill="#D7FF45">
+    <rect x="40" y="25" width="12" height="12"/>
+    <rect x="1148" y="363" width="12" height="12"/>
+  </g>
+
+  <g fill="#999B91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0">
+    <text x="66" y="36">DOSSIER / 0700</text>
+    <text x="510" y="36">SHANGHAI · CN</text>
+    <text x="1008" y="36">STATUS / ACTIVE</text>
+    <text x="40" y="375">PRODUCT ENGINEER</text>
+    <text x="1008" y="375">EST. 2016</text>
+  </g>
+
+  <text x="40" y="188" fill="#F1EFE6" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" letter-spacing="0">mkdir700</text>
+  <rect x="42" y="211" width="92" height="5" fill="#D7FF45"/>
+  <text x="40" y="263" fill="#F1EFE6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="0">SOFTWARE THAT FEELS NATIVE.</text>
+  <text x="40" y="294" fill="#999B91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="0">LOCAL-FIRST DESKTOP APPS / PRACTICAL DEVELOPER TOOLS</text>
+
+  <path d="M724 84V318" stroke="#34352F"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">
+    <text x="766" y="106" fill="#999B91" font-size="13">CURRENT TRANSMISSION</text>
+    <text x="766" y="151" fill="#F1EFE6" font-size="29" font-weight="700">UNICLIPBOARD</text>
+    <text x="766" y="180" fill="#D7FF45" font-size="14">PEER TO PEER / END TO END</text>
+  </g>
+
+  <g stroke="#65675F" stroke-width="1.5">
+    <path d="M842 250L925 219L1012 250L925 282L842 250Z"/>
+    <path d="M925 219V282"/>
+    <path d="M842 250H1012" stroke-dasharray="4 6"/>
+  </g>
+  <g fill="#11120F" stroke="#D7FF45" stroke-width="2">
+    <circle cx="842" cy="250" r="9"/>
+    <circle cx="925" cy="219" r="9"/>
+    <circle cx="1012" cy="250" r="9"/>
+    <circle cx="925" cy="282" r="9"/>
+  </g>
+  <circle cx="925" cy="250" r="6" fill="#D7FF45"/>
+  <g fill="#999B91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="0">
+    <text x="810" y="275">DESKTOP</text>
+    <text x="898" y="201">MOBILE</text>
+    <text x="1027" y="254">LINUX</text>
+    <text x="902" y="307">TABLET</text>
+  </g>
+
+  <g stroke="#65675F">
+    <path d="M690 72H706V88M1176 72H1160V88M690 328H706V312M1176 328H1160V312"/>
+  </g>
+</svg>

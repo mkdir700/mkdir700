@@ -1,87 +1,160 @@
-<h1 align="center">Hi, I'm mkdir700 👋</h1>
-
 <p align="center">
-  Python developer · Vim lover · Building products I actually want to use
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+    <img src="./assets/profile-header.svg" width="100%" alt="mkdir700 — product engineer in Shanghai building local-first software" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.z2blog.com/">Blog</a>
-  ·
+  <a href="https://www.z2blog.com/">Journal</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="mailto:mkdir700@gmail.com">Email</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://x.com/mkdir700">X</a>
 </p>
-
-
-
-## About me
-
-I like tools that are fast, practical, and a little bit nerdy.
-Also: Vim has ruined normal editors for me.
-
-- 🌱 Learning: TypeScript, Next.js, React
-- 🛠️ Mostly using: Python, Rust, TypeScript, Lua
-- ✍️ Blog: www.z2blog.com
-- 📫 Email: mkdir700@gmail.com
-- ❤️ Vim / Neovim user
-
-
-
-Products I've built
-
-## [UniClipboard](https://github.com/UniClipboard/UniClipboard)
-
-A privacy-first cross-device clipboard sync app built with Rust and Tauri.
-
-Copy on one device, paste on another. It supports syncing text, images, and files across Windows, macOS, and Linux, with end-to-end encryption and no cloud account required.
-
-This is the project I'm mainly working on now.
-
-## [EchoPlayer](https://github.com/mkdir700/EchoPlayer)
-
-A cross-platform video player designed for language learners.
-
-It turns movies, TV shows, documentaries, and course videos into listening practice material, with sentence-by-sentence playback, auto pause, sentence looping, bilingual subtitles, and inline vocabulary lookup.
-
-## [open-sol-bot](https://github.com/ChainBuff/open-sol-bot)
-
-A fully open-source Telegram trading bot for the Solana ecosystem.
-
-It supports copy trading, wallet monitoring, swap flows, activation codes, and self-hosted deployment. The goal is simple: keep the bot transparent, open, and under the user's control.
-
-
-## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,ts,nextjs,react,nodejs,go,lua,html,css,tailwind,flask,fastapi,django,tauri,electron" />
+  <strong>I build software that feels native, stays understandable, and keeps your data yours.</strong><br />
+  <sub>Rust · Python · TypeScript · Neovim · Shanghai</sub>
 </p>
 
+<br />
 
+<p><sub>01 / CURRENT BUILD</sub></p>
 
-## Tools I use
+## The clipboard should be a capability, not a cloud service.
+
+[**UniClipboard**](https://github.com/UniClipboard/UniClipboard) keeps copy and paste in sync across your devices while the data stays under your control.
+
+<a href="https://github.com/UniClipboard/UniClipboard">
+  <img src="https://github.com/user-attachments/assets/5e1d75b0-3fed-40ee-ba47-99f5a87f2ec4" width="100%" alt="UniClipboard running across desktop platforms" />
+</a>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>LOCAL BY DEFAULT</strong><br />
+      <sub>No account and no central server between your devices.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>PRIVATE IN TRANSIT</strong><br />
+      <sub>Peer-to-peer transport with end-to-end encryption.</sub>
+    </td>
+    <td width="34%" valign="top">
+      <strong>ONE CLIPBOARD</strong><br />
+      <sub>Windows, macOS, Linux, iOS, and Android.</sub>
+    </td>
+  </tr>
+</table>
+
+[Website](https://uniclipboard.app) &nbsp;·&nbsp; [Source](https://github.com/UniClipboard/UniClipboard) &nbsp;·&nbsp; [Releases](https://github.com/UniClipboard/UniClipboard/releases) &nbsp;·&nbsp; `Rust` `Tauri` `React`
+
+<br />
+
+<p><sub>02 / SELECTED SYSTEMS</sub></p>
+
+## Useful software, built around a clear job.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mkdir700/EchoPlayer">
+        <img src="https://raw.githubusercontent.com/mkdir700/EchoPlayer/main/assets/home.png" width="100%" alt="EchoPlayer home screen" />
+      </a>
+      <br /><br />
+      <sub>02A / LANGUAGE LEARNING</sub>
+      <h3><a href="https://github.com/mkdir700/EchoPlayer">EchoPlayer ↗</a></h3>
+      <p>Turns real movies and shows into sentence-by-sentence listening practice, with the player doing the tedious work.</p>
+      <p><a href="https://www.echoplayer.cc">Website</a> &nbsp;·&nbsp; <code>TypeScript</code> <code>Electron</code> <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChainBuff/open-sol-bot">
+        <img src="https://github.com/user-attachments/assets/a4389538-b317-4858-a41d-b0f374d1a18f" width="100%" alt="OpenSolBot Telegram trading interface" />
+      </a>
+      <br /><br />
+      <sub>02B / OPEN INFRASTRUCTURE</sub>
+      <h3><a href="https://github.com/ChainBuff/open-sol-bot">OpenSolBot ↗</a></h3>
+      <p>An open-source Telegram trading bot for Solana: copy trading, wallet monitoring, and deployment under your control.</p>
+      <p><a href="https://github.com/ChainBuff/open-sol-bot/wiki/Deployment">Deploy</a> &nbsp;·&nbsp; <code>Python</code> <code>Solana</code> <code>Docker</code></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p><sub>03 / HOW I BUILD</sub></p>
+
+## A few constraints make better tools.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,git,github,docker,nginx,sqlite,mysql,mongo,pnpm,npm,bash,powershell,postman,cloudflare,grafana,sentry,linux,ubuntu,debian,apple,windows" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/build-principles-mobile.svg" />
+    <img src="./assets/build-principles.svg" width="100%" alt="Engineering principles: local by default, visible systems, and boring in production" />
+  </picture>
 </p>
 
-## Stats
+<br />
 
-<div align="center">
+<p><sub>04 / TOOLBOX</sub></p>
+
+## The tools change. The criteria do not.
+
+<table>
+  <tr>
+    <td><strong>CORE</strong></td>
+    <td><code>Rust</code> &nbsp; <code>Python</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Lua</code> &nbsp; <code>Go</code></td>
+  </tr>
+  <tr>
+    <td><strong>PRODUCT</strong></td>
+    <td><code>Tauri</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>Electron</code></td>
+  </tr>
+  <tr>
+    <td><strong>SYSTEMS</strong></td>
+    <td><code>SQLite</code> &nbsp; <code>Docker</code> &nbsp; <code>Cloudflare</code> &nbsp; <code>Linux</code></td>
+  </tr>
+  <tr>
+    <td><strong>WORKBENCH</strong></td>
+    <td><code>Neovim</code> &nbsp; <code>Git</code> &nbsp; <code>Shell</code></td>
+  </tr>
+</table>
+
+I reach for tools that are fast, inspectable, and boring in production. Vim permanently changed what I expect from an editor.
+
+<br />
+
+<p><sub>05 / SIGNAL</sub></p>
+
+## Work leaves a trace.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/ecdcacf4-be46-43ff-9da5-4dcf1e218d2d.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
-  <img width="49%" alt="Languages over last 7 days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-snake.svg" />
+  <img width="100%" alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/mkdir700/mkdir700/output/github-snake.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11e83183-5ddc-4b88-ac16-715d5556681e.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
-  <img width="49%" alt="Coding activity over last 7 days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
-</picture>
+<details>
+  <summary><strong>Weekly coding activity</strong></summary>
+  <br />
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/ecdcacf4-be46-43ff-9da5-4dcf1e218d2d.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
+      <img width="49%" alt="Languages used over the last seven days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/40f088e6-5fe3-48e6-bfcc-1fd7c69f5e19.svg" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11e83183-5ddc-4b88-ac16-715d5556681e.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
+      <img width="49%" alt="Coding activity over the last seven days" src="https://wakatime.com/share/@50ffbbac-c6c1-49c8-8949-00372b6872ed/11c79fd9-e09b-44c7-8c31-06469a85d82a.svg" />
+    </picture>
+  </p>
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mkdir700" />
-  <img width="98%" alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=mkdir700&theme=dark" />
-</picture>
+<br />
 
-</div>
+---
+
+<p align="center">
+  <sub>OPEN TO THOUGHTFUL CONVERSATIONS ABOUT</sub><br />
+  <strong>desktop software · local-first systems · useful developer tools</strong><br /><br />
+  <a href="mailto:mkdir700@gmail.com">mkdir700@gmail.com</a>
+</p>
